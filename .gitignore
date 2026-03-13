@@ -1,0 +1,18 @@
+# Rust
+target/
+debug/
+Cargo.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.pt
+*.pt2
+*.pte
+
+# Conda
+env/
+.venv/
